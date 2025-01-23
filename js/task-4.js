@@ -1,4 +1,5 @@
-`use strict`
+"use strict" 
+
 function getShippingCost(country) {
     switch (country) {
         case "China":
